@@ -1,0 +1,8 @@
+#ifndef XCTEST_COMMON_H_INCLUDED
+#define XCTEST_COMMON_H_INCLUDED
+
+
+#define	XCCLI_TEST	"--xctest"
+
+
+#endif // XCTEST_COMMON_H_INCLUDED
